@@ -33,37 +33,6 @@ This repository documents my Week 1 lab-setup task for the NetworkWalks Cybersec
 
 The screenshots currently included document the VirtualBox VM, NAT Network settings, a successful ping to `8.8.8.8`, and the Kali Linux desktop. The static IP, DNS resolution, shared-folder integration, clipboard/drag-and-drop, and snapshot should be marked complete only after they have been verified.
 
-## Screenshots
-
-Upload your four screenshots to a folder named `screenshots/` in this repository and use these filenames (or update the links below to match your actual filenames):
-
-### 1. VirtualBox VM Details
-
-![VirtualBox VM details](screenshots/01-virtualbox-vm.png)
-
-### 2. NAT Network Configuration
-
-![NAT Network configuration](screenshots/02-nat-network.png)
-
-### 3. Internet Connectivity Test
-
-![Ping test to 8.8.8.8](screenshots/03-internet-connectivity.png)
-
-### 4. Kali Linux Desktop
-
-![Kali Linux desktop](screenshots/04-kali-desktop.png)
-
-## Verification Checklist
-
-- [x] VirtualBox VM created and running
-- [x] NAT Network created with `10.0.0.0/24`
-- [x] Ping to `8.8.8.8` succeeded in the captured test
-- [ ] Kali IPv4 address verified as `10.0.0.2/24`
-- [ ] `ping -c 4 google.com` verified
-- [ ] Shared host Downloads folder tested from Kali
-- [ ] Shared Clipboard set to Bidirectional
-- [ ] Drag and Drop set to Bidirectional
-- [ ] VM snapshot created
 
 ## What I Learned
 
